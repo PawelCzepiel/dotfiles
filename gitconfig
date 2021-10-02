@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pawel.czepiel@yahoo.com
+	name = Pawel Czepiel
